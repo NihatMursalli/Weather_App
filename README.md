@@ -23,16 +23,6 @@ API: OpenWeatherMap
 
 Maps: Folium + Geopy
 
-📂 Project Structure
-Weather-App/
-│── app.py              # Main Streamlit app
-│── train_model.py      # Script to train dummy model
-│── model.pkl           # Saved ML model
-│── requirements.txt    # Dependencies
-│── README.md           # Documentation
-│
-└── utils/
-    └── weather.py      # API + geocoding + map helpers
 
 ⚡ Installation & Setup
 # 1. Clone repo
